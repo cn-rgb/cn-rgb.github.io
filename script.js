@@ -39,16 +39,16 @@ $(document).ready(function(){
 					}
 				});
 				
-			var options = {
+			/*var options = {
         			stringsElement: '#typed-strings',
         			typeSpeed: 100,
 				loop:true
     			}
-			    var typed = new Typed("#typed", options);	
+			    var typed = new Typed("#typed", options);	*/
 		});	
 
     // typing text animation script
-    /*var typed = new Typed(".typing", {
+    var typed = new Typed(".typing", {
         strings: ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
@@ -60,7 +60,7 @@ $(document).ready(function(){
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
-    });*/
+    });
 
 /*var typed = new Typed('#typed', {
 	    stringsElement: '#typed-strings'
