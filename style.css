@@ -4,7 +4,7 @@
 				padding:0;
 				box-sizing:border-box;
 				text-decoration:none;
-				<!--  -->
+			
 			}
 			html, body{
 			
@@ -15,7 +15,7 @@
 }
 
 /* custom scroll bar */
-::-webkit-scrollbar {
+/*::-webkit-scrollbar {
     width: 10px;
 }
 ::-webkit-scrollbar-track {
@@ -27,7 +27,7 @@
 
 ::-webkit-scrollbar-thumb:hover {
     background: #555;
-}
+}*/
 
 			.max-width{
 				max-width: 1300px;
@@ -239,7 +239,7 @@
 			}
 			.about .about-content .right .text{ /*a text*/
 				font-size:25px;
-				font-wight:600;
+				font-weight:600;
 				margin-bottom:10px;
 				
 			}
