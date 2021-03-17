@@ -154,9 +154,9 @@
 				font-weight:500;
 				
 			}
-			.home .home-content{
+			/*.home .home-content{
 				border: 2px solid yellow;
-			}
+			}*/
 			.home .home-content a{ /*hire me*/
 				display:inline-block;
 				background:crimson;
