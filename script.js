@@ -39,8 +39,13 @@ $(document).ready(function(){
 					}
 				});
 				
-				
-			});	
+			var options = {
+        			stringsElement: '#typed-strings',
+        			typeSpeed: 100,
+				loop:true
+    			}
+			    var typed = new Typed("#typed", options);	
+		});	
 
     // typing text animation script
     /*var typed = new Typed(".typing", {
@@ -57,6 +62,7 @@ $(document).ready(function(){
         loop: true
     });*/
 
-var typed = new Typed('#typed', {
+/*var typed = new Typed('#typed', {
 	    stringsElement: '#typed-strings'
 	  });
+*/
