@@ -48,7 +48,7 @@ $(document).ready(function(){
 			    var typed = new Typed("#typed", options);
 			*/
 			var options = {
-        			strings: ["YouTuber", "Developer", "Blogger", "Designer", "Freelancer"],
+        			strings: ["tévézik", "kártyázik", "Igizik"],/*"Designer", "Freelancer"],*/
         			typeSpeed: 100,
 				backSpeed:60,
 				loop:true
